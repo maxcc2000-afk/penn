@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-headshot: ![headshot](\Users\Owner\OneDrive\Photos+Videos\Headshots\2022 Max Portrait BW.jpg)
+headshot: ![headshot](\Users\Owner\OneDrive\Photos+Videos\Headshots\2022 Max Portrait BW.jpeg)
 permalink: /about
 ---
 
