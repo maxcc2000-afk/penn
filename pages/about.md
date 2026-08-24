@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-headshot: ![headshot](assets/img/proj-5/2022 Max Portrait BW.jpg
+headshot: ![headshot](assets/img/proj-5/2022 Max Portrait BW.jpg)
 permalink: /about
 ---
 
