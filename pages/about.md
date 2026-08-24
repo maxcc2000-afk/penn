@@ -1,9 +1,10 @@
 ---
 layout: about
 title: About Me
-headshot: ![headshot](assets/img/projects/proj-5/2022 Max Portrait BW.jpg)
 permalink: /about
 ---
+
+<img width="198" height="297" alt="2022 Max Portrait BW" src="https://github.com/user-attachments/assets/68931f87-a3d8-4383-97bb-1b592b161e97" />
 
 # A little about me
 
